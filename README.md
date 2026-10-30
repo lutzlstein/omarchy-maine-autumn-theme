@@ -49,7 +49,9 @@ Icons: `Yaru-yellow`
 
 ## Backgrounds credits
 
-- `Misty Autumn River at Sunrise.png`: source: TODO, confirm before submitting to the gallery
+- `Misty Autumn River at Sunrise.png`: AI-generated with ChatGPT by Cory Blische.
+
+The background images are released under the same MIT license as the rest of this theme.
 
 ## License
 

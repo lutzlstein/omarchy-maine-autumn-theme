@@ -19,13 +19,14 @@
       "#ffcd5b",
       "#ffffff"
     ],
-    "wallpaper": "/home/cory/Wallpapers/holodeck/Misty Autumn River at Sunrise.png",
+    "wallpaper": "",
     "extendedColors": {
       "accent": "#7594cb",
       "cursor": "#ffffff",
       "selection_background": "#ffffff",
       "selection_foreground": "#121212"
-    }
+    },
+    "wallpaperUrl": "https://raw.githubusercontent.com/lutzlstein/omarchy-maine-autumn-theme/main/backgrounds/Misty%20Autumn%20River%20at%20Sunrise.png"
   },
   "adjustments": {
     "blackPoint": 0,
