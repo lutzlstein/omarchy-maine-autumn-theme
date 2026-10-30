@@ -1,17 +1,17 @@
-# Autumn — Omarchy theme
+# Maine Autumn — Omarchy theme
 
-![Autumn preview](preview.jpg)
+![Maine Autumn preview](preview.jpg)
 
 ## Install
 
 ```
-omarchy-theme-install https://github.com/lutzlstein/omarchy-autumn-theme
+omarchy-theme-install https://github.com/lutzlstein/omarchy-maine-autumn-theme
 ```
 
 Aether (adds it to your blueprints and applies it):
 
 ```
-aether --import-blueprint https://raw.githubusercontent.com/lutzlstein/omarchy-autumn-theme/main/blueprint.json --auto-apply
+aether --import-blueprint https://raw.githubusercontent.com/lutzlstein/omarchy-maine-autumn-theme/main/blueprint.json --auto-apply
 ```
 
 ## Palette
