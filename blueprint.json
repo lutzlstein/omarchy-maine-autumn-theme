@@ -1,0 +1,46 @@
+{
+  "name": "Maine Autumn",
+  "palette": {
+    "colors": [
+      "#121212",
+      "#738bc1",
+      "#b35bb8",
+      "#be6c5d",
+      "#7594cb",
+      "#f7c068",
+      "#fbbf36",
+      "#ffffff",
+      "#9e9e9e",
+      "#89a0d4",
+      "#e077ed",
+      "#ec8e7a",
+      "#8da9dc",
+      "#fece81",
+      "#ffcd5b",
+      "#ffffff"
+    ],
+    "wallpaper": "/home/cory/Wallpapers/holodeck/Misty Autumn River at Sunrise.png",
+    "extendedColors": {
+      "accent": "#7594cb",
+      "cursor": "#ffffff",
+      "selection_background": "#ffffff",
+      "selection_foreground": "#121212"
+    }
+  },
+  "adjustments": {
+    "blackPoint": 0,
+    "brightness": 0,
+    "contrast": 0,
+    "gamma": 1,
+    "highlights": 0,
+    "hueShift": 0,
+    "saturation": 0,
+    "shadows": 0,
+    "temperature": 0,
+    "tint": 0,
+    "vibrance": 0,
+    "whitePoint": 0
+  },
+  "settings": {},
+  "timestamp": 1792243622204
+}
