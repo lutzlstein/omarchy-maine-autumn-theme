@@ -49,7 +49,7 @@ Icons: `Yaru-yellow`
 
 ## Backgrounds credits
 
-- `Misty Autumn River at Sunrise.webp`: AI-generated with ChatGPT by Cory Blische.
+- `1-misty-autumn-river-sunrise.webp`: AI-generated with ChatGPT by Cory Blische.
 
 The background images are released under the same MIT license as the rest of this theme.
 
