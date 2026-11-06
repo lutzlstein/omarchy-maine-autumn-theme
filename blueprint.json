@@ -1,30 +1,30 @@
 {
-  "name": "Maine Autumn",
+  "name": "Maine Autumn Sunrise",
   "palette": {
     "colors": [
-      "#121212",
-      "#738bc1",
-      "#b35bb8",
-      "#be6c5d",
-      "#7594cb",
-      "#f7c068",
-      "#fbbf36",
-      "#ffffff",
-      "#9e9e9e",
-      "#89a0d4",
-      "#e077ed",
-      "#ec8e7a",
-      "#8da9dc",
-      "#fece81",
-      "#ffcd5b",
-      "#ffffff"
+      "#0b0701",
+      "#c0992a",
+      "#00c878",
+      "#c980c7",
+      "#a27100",
+      "#0091ab",
+      "#b658ba",
+      "#ded7c5",
+      "#605e58",
+      "#eac018",
+      "#34f6af",
+      "#f69ffa",
+      "#cc9600",
+      "#32b7d9",
+      "#e474ef",
+      "#f4e4b1"
     ],
     "wallpaper": "",
     "extendedColors": {
-      "accent": "#7594cb",
-      "cursor": "#ffffff",
-      "selection_background": "#ffffff",
-      "selection_foreground": "#121212"
+      "accent": "#EAC018",
+      "cursor": "#ded7c5",
+      "selection_background": "#55200a",
+      "selection_foreground": "#C0992A"
     },
     "wallpaperUrl": "https://raw.githubusercontent.com/lutzlstein/omarchy-maine-autumn-theme/main/backgrounds/Misty%20Autumn%20River%20at%20Sunrise.png"
   },
@@ -43,5 +43,5 @@
     "whitePoint": 0
   },
   "settings": {},
-  "timestamp": 1792243622204
+  "timestamp": 1793977955553
 }

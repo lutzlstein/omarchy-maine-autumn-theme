@@ -1,6 +1,6 @@
-# Maine Autumn — Omarchy theme
+# Maine Autumn Sunrise — Omarchy theme
 
-![Maine Autumn preview](preview.jpg)
+![Maine Autumn Sunrise preview](preview.jpg)
 
 ## Install
 
@@ -18,32 +18,32 @@ aether --import-blueprint https://raw.githubusercontent.com/lutzlstein/omarchy-m
 
 | Name | Hex | Swatch |
 |---|---|---|
-| accent | `#7594cb` | ![](https://placehold.co/24x24/7594cb/7594cb.png) |
-| selection | `#2a2a2a` | ![](https://placehold.co/24x24/2a2a2a/2a2a2a.png) |
-| selection_foreground | `#121212` | ![](https://placehold.co/24x24/121212/121212.png) |
-| muted | `#9e9e9e` | ![](https://placehold.co/24x24/9e9e9e/9e9e9e.png) |
-| background | `#121212` | ![](https://placehold.co/24x24/121212/121212.png) |
-| dark_background | `#0e0e0e` | ![](https://placehold.co/24x24/0e0e0e/0e0e0e.png) |
-| darker_background | `#090909` | ![](https://placehold.co/24x24/090909/090909.png) |
-| lighter_background | `#2a2a2a` | ![](https://placehold.co/24x24/2a2a2a/2a2a2a.png) |
-| foreground | `#ffffff` | ![](https://placehold.co/24x24/ffffff/ffffff.png) |
-| dark_foreground | `#bfbfbf` | ![](https://placehold.co/24x24/bfbfbf/bfbfbf.png) |
-| light_foreground | `#ffffff` | ![](https://placehold.co/24x24/ffffff/ffffff.png) |
-| bright_foreground | `#ffffff` | ![](https://placehold.co/24x24/ffffff/ffffff.png) |
-| red | `#738bc1` | ![](https://placehold.co/24x24/738bc1/738bc1.png) |
-| yellow | `#be6c5d` | ![](https://placehold.co/24x24/be6c5d/be6c5d.png) |
-| orange | `#889cca` | ![](https://placehold.co/24x24/889cca/889cca.png) |
-| green | `#b35bb8` | ![](https://placehold.co/24x24/b35bb8/b35bb8.png) |
-| cyan | `#fbbf36` | ![](https://placehold.co/24x24/fbbf36/fbbf36.png) |
-| blue | `#7594cb` | ![](https://placehold.co/24x24/7594cb/7594cb.png) |
-| magenta | `#f7c068` | ![](https://placehold.co/24x24/f7c068/f7c068.png) |
-| brown | `#525e79` | ![](https://placehold.co/24x24/525e79/525e79.png) |
-| bright_red | `#89a0d4` | ![](https://placehold.co/24x24/89a0d4/89a0d4.png) |
-| bright_yellow | `#ec8e7a` | ![](https://placehold.co/24x24/ec8e7a/ec8e7a.png) |
-| bright_green | `#e077ed` | ![](https://placehold.co/24x24/e077ed/e077ed.png) |
-| bright_cyan | `#ffcd5b` | ![](https://placehold.co/24x24/ffcd5b/ffcd5b.png) |
-| bright_blue | `#8da9dc` | ![](https://placehold.co/24x24/8da9dc/8da9dc.png) |
-| bright_magenta | `#fece81` | ![](https://placehold.co/24x24/fece81/fece81.png) |
+| accent | `#eac018` | ![](https://placehold.co/24x24/eac018/eac018.png) |
+| selection | `#55200a` | ![](https://placehold.co/24x24/55200a/55200a.png) |
+| selection_foreground | `#c0992a` | ![](https://placehold.co/24x24/c0992a/c0992a.png) |
+| muted | `#605e58` | ![](https://placehold.co/24x24/605e58/605e58.png) |
+| background | `#0b0701` | ![](https://placehold.co/24x24/0b0701/0b0701.png) |
+| dark_background | `#080501` | ![](https://placehold.co/24x24/080501/080501.png) |
+| darker_background | `#060401` | ![](https://placehold.co/24x24/060401/060401.png) |
+| lighter_background | `#23201a` | ![](https://placehold.co/24x24/23201a/23201a.png) |
+| foreground | `#ded7c5` | ![](https://placehold.co/24x24/ded7c5/ded7c5.png) |
+| dark_foreground | `#a7a194` | ![](https://placehold.co/24x24/a7a194/a7a194.png) |
+| light_foreground | `#e3ddce` | ![](https://placehold.co/24x24/e3ddce/e3ddce.png) |
+| bright_foreground | `#e6e1d4` | ![](https://placehold.co/24x24/e6e1d4/e6e1d4.png) |
+| red | `#c0992a` | ![](https://placehold.co/24x24/c0992a/c0992a.png) |
+| yellow | `#c980c7` | ![](https://placehold.co/24x24/c980c7/c980c7.png) |
+| orange | `#c9a84a` | ![](https://placehold.co/24x24/c9a84a/c9a84a.png) |
+| green | `#00c878` | ![](https://placehold.co/24x24/00c878/00c878.png) |
+| cyan | `#b658ba` | ![](https://placehold.co/24x24/b658ba/b658ba.png) |
+| blue | `#a27100` | ![](https://placehold.co/24x24/a27100/a27100.png) |
+| magenta | `#0091ab` | ![](https://placehold.co/24x24/0091ab/0091ab.png) |
+| brown | `#79652c` | ![](https://placehold.co/24x24/79652c/79652c.png) |
+| bright_red | `#eac018` | ![](https://placehold.co/24x24/eac018/eac018.png) |
+| bright_yellow | `#f69ffa` | ![](https://placehold.co/24x24/f69ffa/f69ffa.png) |
+| bright_green | `#34f6af` | ![](https://placehold.co/24x24/34f6af/34f6af.png) |
+| bright_cyan | `#e474ef` | ![](https://placehold.co/24x24/e474ef/e474ef.png) |
+| bright_blue | `#cc9600` | ![](https://placehold.co/24x24/cc9600/cc9600.png) |
+| bright_magenta | `#32b7d9` | ![](https://placehold.co/24x24/32b7d9/32b7d9.png) |
 
 Icons: `Yaru-yellow`
 
