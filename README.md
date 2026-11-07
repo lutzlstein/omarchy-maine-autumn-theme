@@ -2,6 +2,13 @@
 
 ![Maine Autumn Sunrise preview](preview.jpg)
 
+## Backgrounds
+
+| | | |
+|---|---|---|
+| <a href="backgrounds/1-misty-autumn-river-sunrise.webp"><img src="backgrounds/1-misty-autumn-river-sunrise.webp" alt="1-misty-autumn-river-sunrise.webp" width="260"></a><br><sub>Original source</sub> | <a href="backgrounds/2-restyle-this-image-broad-painterly.webp"><img src="backgrounds/2-restyle-this-image-broad-painterly.webp" alt="2-restyle-this-image-broad-painterly.webp" width="260"></a><br><sub>Made with <a href="https://github.com/lutzlstein/oma-easel">Oma Easel</a></sub> | <a href="backgrounds/3-create-abstract-piece-that-follows.webp"><img src="backgrounds/3-create-abstract-piece-that-follows.webp" alt="3-create-abstract-piece-that-follows.webp" width="260"></a><br><sub>Made with <a href="https://github.com/lutzlstein/oma-easel">Oma Easel</a></sub> |
+| <a href="backgrounds/5-bauhaus.webp"><img src="backgrounds/5-bauhaus.webp" alt="5-bauhaus.webp" width="260"></a><br><sub>Made with <a href="https://github.com/lutzlstein/oma-easel">Oma Easel</a></sub> | <a href="backgrounds/6-fractal-using-all-theme-colors.webp"><img src="backgrounds/6-fractal-using-all-theme-colors.webp" alt="6-fractal-using-all-theme-colors.webp" width="260"></a><br><sub>Made with <a href="https://github.com/lutzlstein/oma-easel">Oma Easel</a></sub> |  |
+
 ## Install
 
 ```
@@ -46,13 +53,6 @@ aether --import-blueprint https://raw.githubusercontent.com/lutzlstein/omarchy-m
 | bright_magenta | `#32b7d9` | ![](https://placehold.co/24x24/32b7d9/32b7d9.png) |
 
 Icons: `Yaru-yellow`
-
-## Backgrounds
-
-| | | |
-|---|---|---|
-| <a href="backgrounds/1-misty-autumn-river-sunrise.webp"><img src="backgrounds/1-misty-autumn-river-sunrise.webp" alt="1-misty-autumn-river-sunrise.webp" width="260"></a><br><sub>Original source</sub> | <a href="backgrounds/2-restyle-this-image-broad-painterly.webp"><img src="backgrounds/2-restyle-this-image-broad-painterly.webp" alt="2-restyle-this-image-broad-painterly.webp" width="260"></a><br><sub>Made with <a href="https://github.com/lutzlstein/oma-easel">Oma Easel</a></sub> | <a href="backgrounds/3-create-abstract-piece-that-follows.webp"><img src="backgrounds/3-create-abstract-piece-that-follows.webp" alt="3-create-abstract-piece-that-follows.webp" width="260"></a><br><sub>Made with <a href="https://github.com/lutzlstein/oma-easel">Oma Easel</a></sub> |
-| <a href="backgrounds/5-bauhaus.webp"><img src="backgrounds/5-bauhaus.webp" alt="5-bauhaus.webp" width="260"></a><br><sub>Made with <a href="https://github.com/lutzlstein/oma-easel">Oma Easel</a></sub> | <a href="backgrounds/6-fractal-using-all-theme-colors.webp"><img src="backgrounds/6-fractal-using-all-theme-colors.webp" alt="6-fractal-using-all-theme-colors.webp" width="260"></a><br><sub>Made with <a href="https://github.com/lutzlstein/oma-easel">Oma Easel</a></sub> |  |
 
 ## Backgrounds credits
 
